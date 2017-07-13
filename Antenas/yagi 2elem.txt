@@ -1,0 +1,15 @@
+VK5DJ's YAGI CALCULATOR
+
+Yagi design frequency =446,00 MHz
+Wavelength =672 mm
+Parasitic elements fastened to a non-metallic or separated from boom
+Folded dipole mounted same as directors and reflector
+Director/reflector diam =2,5 mm
+Radiator diam =2,5 mm
+
+REFLECTOR
+328,2 mm long at boom position = 30 mm  (IT = 151,5 mm)
+
+RADIATOR
+Single dipole 317,6 mm tip to tip, spaced 134 mm from reflector at boom posn 164 mm (IT = 146,5 mm)
+Folded dipole 324,0 mm tip to tip, spaced 134 mm from reflector at boom posn 164 mm (IT = 149,5 mm)
